@@ -1,0 +1,30 @@
+@media screen and (max-width: 400px) {
+    .container{
+        max-width: 50vh;
+    }
+
+    .scooter{
+        margin: 10px 0 0 16px;
+    }
+
+    .scooter1{
+        width: 251px;
+    }
+
+    .scooter2{
+        width: 350px;
+    }
+
+    .scooter3{
+        width: 111px;
+    }
+
+    .content h2{
+        font-size: 37px;
+    }
+
+    body{
+        background-position: center;
+    }
+}
+

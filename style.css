@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Contenitore */
+.container{
+    width: 110vh;
+    /* height: 100vh; */
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+/* Logo */
+.logo{
+    text-align: center;
+    width: 100%;
+    padding:67px 0 0 0 ;
+}
+
+.logo img{
+    width: 225px;
+}
+
+/* Content */
+.content{
+    padding-bottom: 120px;
+}
+
+/* Title */
+.title{
+    text-align: center;
+}
+
+.content h2{
+    color: lime;
+    font-size: 33px;
+}
+
+/* Background & Button */
+button{
+    padding: 3px;
+    font-size: 12px;
+}
+
+.btn{
+    background-color: lime;
+    margin: 5px 60px 0 60px;
+    padding: 7px;
+    text-align: center;
+}
+
+/* Scooter Choice */
+.scooter{
+    margin: 10px 0 0 60px;
+    padding-bottom: 15px;
+}
+
+.scooter p{
+    color: white;
+}
+
+.scooter span{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.charge{
+    margin: 0;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.scooter1{
+    background-color: orange;
+    width: 328px;
+}
+
+.scooter2{
+    background-color: lime;
+    width: 500px;
+}
+
+.scooter3{
+    background-color: brown;
+    width: 140px;
+}
